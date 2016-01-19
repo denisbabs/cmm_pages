@@ -61,7 +61,7 @@ function cmm_pages_field_default_field_instances() {
       'module' => 'paragraphs',
       'settings' => array(),
       'type' => 'paragraphs_embed',
-      'weight' => 31,
+      'weight' => 2,
     ),
   );
 
